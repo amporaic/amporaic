@@ -1,5 +1,4 @@
-wip aurgh
-
+![](https://files.catbox.moe/fl60og.jpeg)
 <!--
 **amporaic/amporaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
