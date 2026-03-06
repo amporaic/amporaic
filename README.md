@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/fl60og.jpeg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <!--
 **amporaic/amporaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
